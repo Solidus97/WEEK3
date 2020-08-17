@@ -1,5 +1,3 @@
-
-
 ## This function will prepare the variables in order to inverse the matrix on the next function
 
 makeCacheMatrix <- function(x = matrix()) 
